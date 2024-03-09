@@ -5,8 +5,8 @@ import { createWriteStream } from "fs";
 export const S3Clients= new S3Client({
     region: 'us-east-1',
    credentials:{
-    accessKeyId:'AKIAUX4BDRCWHZ3TQMVO',
-    secretAccessKey:'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'
+    accessKeyId:'AKIAUbnmX4BDRCWHZ3TQMVOtyi',
+    secretAccessKey:'eKjnIcBb7tuibspObDARoCakwf3+jxUVuHbbnvo/68HVoLEfSL'
    }
 })
 
